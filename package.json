@@ -1,0 +1,31 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator Application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachFulmer/Team_Profile_Generator.git"
+  },
+  "keywords": [
+    "Team",
+    "Profile",
+    "Generator"
+  ],
+  "author": "Zachary Fulmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachFulmer/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/ZachFulmer/Team_Profile_Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "jest": "^28.1.2"
+  }
+}
